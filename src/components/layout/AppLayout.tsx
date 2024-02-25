@@ -64,7 +64,7 @@ export default function ResponsiveDrawer() {
       >
         <Toolbar />
         <Outlet/>
-      s</Box>
+      </Box>
     </Box>
   );
 }
